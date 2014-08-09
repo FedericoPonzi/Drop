@@ -17,8 +17,8 @@ Try the game
 Follow these instruction:
 https://github.com/libgdx/libgdx/wiki/Prerequisites
 And be sure to have all the software installed
-1. Download the source,
-2. Import all the project from eclipse
-3. Click on drop-desktop to start playing drop on desktop
-4. Or export drop-desktop as a Running Jar
-5. Or export drop-android as a .apk and install it on an Android Phone.
+ 1. Download the source,
+ 2. Import all the project from eclipse
+ 3. Click on drop-desktop to start playing drop on desktop
+ 4. Or export drop-desktop as a Running Jar
+ 5. Or export drop-android as a .apk and install it on an Android Phone.
